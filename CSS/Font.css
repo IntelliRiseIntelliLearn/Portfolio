@@ -1,0 +1,42 @@
+/*This CSS File Includes all The Fonts That are used in this Website*/
+/*File Name: Fonts.css*/
+/*Date Of Creations:1-Oct-2017*/
+/*Creater Name:Gaurav Kumar Saini*/
+/*Updated Date:oct-2017*/
+
+@font-face {
+font-family: Catamaran-Black;
+src: url(../fonts/Catamaran-Black.ttf);
+}
+@font-face {
+font-family: Catamaran-Bold;
+src: url(../fonts/Catamaran-Bold.ttf);
+}
+@font-face {
+font-family: Catamaran-ExtraBold;
+src: url(../fonts/Catamaran-ExtraBold.ttf);
+}
+@font-face {
+font-family: Catamaran-ExtraLight;
+src: url(../fonts/Catamaran-ExtraLight.ttf);
+}
+@font-face {
+font-family: Catamaran-Light;
+src: url(../fonts/Catamaran-Light.ttf);
+}
+@font-face {
+font-family: Catamaran-Medium;
+src: url(../fonts/Catamaran-Medium.ttf);
+}
+@font-face {
+font-family: Catamaran-SemiBold;
+src: url(../fonts/Catamaran-SemiBold.ttf);
+}
+@font-face {
+font-family: Catamaran-Regular;
+src: url(../fonts/Catamaran-Regular.ttf);
+}
+@font-face {
+font-family: Catamaran-Thin;
+src: url(../fonts/Catamaran-Thin.ttf);
+}
